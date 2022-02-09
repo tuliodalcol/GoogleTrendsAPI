@@ -1,1 +1,1 @@
-# GoogleTrendsAPI
+# googleTrendsAPI
